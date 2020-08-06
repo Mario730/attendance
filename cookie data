@@ -1,0 +1,31 @@
+curl "https://docs.google.com/forms/d/e/1FAIpQLSc086Hv3C5pnQb_r-lOsHIJCmiSItv521_YB4a-YAT9-cCXfA/viewform" ^
+  -H "authority: docs.google.com" ^
+  -H "cache-control: max-age=0" ^
+  -H "upgrade-insecure-requests: 1" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" ^
+  -H "accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9" ^
+  -H "x-client-data: CJa2yQEIpLbJAQjBtskBCKmdygEIhrXKAQiYtcoBCP+8ygEIir/KAQjnyMoBCPDJygEItMvKAQi8y8oBCI/NygE=" ^
+  -H "sec-fetch-site: same-origin" ^
+  -H "sec-fetch-mode: navigate" ^
+  -H "sec-fetch-user: ?1" ^
+  -H "sec-fetch-dest: document" ^
+  -H "referer: https://docs.google.com/forms/d/1r812e1ZDQtPWoQr1iNwhX_2CirlDqFHLoEKn27QP5kI/edit" ^
+  -H "accept-language: en-US,en;q=0.9" ^
+  -H "cookie: S=spreadsheet_forms=bk4Zsc8ylhUogERwdNDMCpkcqtKbf9cMnVUMt_74Ask; SEARCH_SAMESITE=CgQIoY8B; ANID=AHWqTUmUTTSWMQxomCqk0G4zC9jlTtqlIijhlfJgPVePhfGkHrWMNthOtgkj0Ztu; SID=zwdnSILIL_34hHAeO9liu_lP5ecYppyrudZrOER9gDu5-9g7vnkewsXBsHlGY5TnspT7sA.; __Secure-3PSID=zwdnSILIL_34hHAeO9liu_lP5ecYppyrudZrOER9gDu5-9g7mdpX_88FukLkqv5pHc61KA.; HSID=A7420ffL5hCEBPyxN; SSID=ABrAo21_KIsCVpTeJ; APISID=Ss0yBbFg256Im-ra/AL2be60NNQoBx-A7q; SAPISID=KRqQjiZX1zZdOlRP/AKtUQw7ZuVb7KEzA5; __Secure-3PAPISID=KRqQjiZX1zZdOlRP/AKtUQw7ZuVb7KEzA5; NID=204=WJ5UstWCRzgledJ8Vv1tw5NBfDIrBH69Zq58yOUVhArVP33aCSE190rwKjMvaNrsfU2wNl78y6tKPhAutj7C6u9EXpV0PI7clpm0zInxTZdMANleO0KlPMeFCYazgVc6HU3Yrc2AAubvtfktcUvzk7o5S29QoebJllV0XlCK1xJJ_LC1oKEICMb3Mx4HCrvBjdloYe-dbIwPRypQx9EvcEiqk4K6p3ob7V_x8w5H960; 1P_JAR=2020-08-05-02; SIDCC=AJi4QfEAuqEiIsHxQsI89lHO9P3lkHqQ_TIUvihJXD9c8f0TXYKuPnsvQSpSvZu4lRv9Dm0kUkE" ^
+  --compressed
+
+curl "https://docs.google.com/forms/d/e/1FAIpQLSc086Hv3C5pnQb_r-lOsHIJCmiSItv521_YB4a-YAT9-cCXfA/viewform" ^
+  -H "authority: docs.google.com" ^
+  -H "cache-control: max-age=0" ^
+  -H "upgrade-insecure-requests: 1" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" ^
+  -H "accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9" ^
+  -H "x-client-data: CJa2yQEIpLbJAQjBtskBCKmdygEIhrXKAQiYtcoBCP+8ygEIir/KAQjnyMoBCLTLygEIj83KAQ==" ^
+  -H "sec-fetch-site: same-origin" ^
+  -H "sec-fetch-mode: navigate" ^
+  -H "sec-fetch-user: ?1" ^
+  -H "sec-fetch-dest: document" ^
+  -H "referer: https://docs.google.com/forms/d/1r812e1ZDQtPWoQr1iNwhX_2CirlDqFHLoEKn27QP5kI/edit" ^
+  -H "accept-language: en-US,en;q=0.9" ^
+  -H "cookie: S=spreadsheet_forms=_SRAYibSgGw6XeIFK4VphUnIi6N8Ybn_pksmyyZEItU; SEARCH_SAMESITE=CgQIoY8B; SID=zwdnSILIL_34hHAeO9liu_lP5ecYppyrudZrOER9gDu5-9g7vnkewsXBsHlGY5TnspT7sA.; __Secure-3PSID=zwdnSILIL_34hHAeO9liu_lP5ecYppyrudZrOER9gDu5-9g7mdpX_88FukLkqv5pHc61KA.; HSID=A7420ffL5hCEBPyxN; SSID=ABrAo21_KIsCVpTeJ; APISID=Ss0yBbFg256Im-ra/AL2be60NNQoBx-A7q; SAPISID=KRqQjiZX1zZdOlRP/AKtUQw7ZuVb7KEzA5; __Secure-3PAPISID=KRqQjiZX1zZdOlRP/AKtUQw7ZuVb7KEzA5; ANID=AHWqTUl6QgUuu3sWQy5P8e7cPHuhF111kXrt447MBjIOLMc2wUnL1m5GrV6Xw99I; 1P_JAR=2020-8-5-14; NID=204=zd4R0N7lbCIP2vR2Z2bZ2LIDBUVFsJwUrBhjxHRxjb0u6ulNf7Ijb01ag7Xf9jyXA1Hn-obfHk2KVLfDwYa_8w1MVrlgD3rbi6Q4qCzw9FmHpPNBQwE9u-ExDuyg4aYzcVEaOAoLOBw4Vjw2wPboO3_7yjDt9UK5pt--jL8p9AjHoCFef7bwNAAxJz_HEVH0pGgolHVYOXc-4lkXB5-C8y5HbSS3mlUelil4AbhvNCY; SIDCC=AJi4QfHOqm3bMfkmBlCW0LxCrq5zLcC2NifPM3ygRrR3qpEDmgZqQTgOgBm3hnhGibIo7cbworM" ^
+  --compressed
